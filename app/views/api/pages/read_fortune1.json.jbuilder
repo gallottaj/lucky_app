@@ -1,1 +1,0 @@
-json.read_fortune1 @fortune1
