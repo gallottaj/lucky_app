@@ -1,0 +1,1 @@
+json.random_fortune @selected_fortune

@@ -1,0 +1,1 @@
+json.read_fortune3 @fortune3
