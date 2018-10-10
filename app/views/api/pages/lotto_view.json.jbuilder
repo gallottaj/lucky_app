@@ -1,0 +1,1 @@
+json.random_lotto @numbers
